@@ -125,8 +125,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /images/wallhaven-wqery6-light.webp # light mode
-    dark: /images/wallhaven-wqery6-dark.webp # dark mode
+    light: https://www.hoyoverse.com/_nuxt/img/logo-light.3def3bc.png # light mode
+    dark: https://www.hoyoverse.com/_nuxt/img/logo-light.3def3bc.png # dark mode
   # Home banner title
   title: 愿此行, 终抵群星!
   # Home banner subtitle
