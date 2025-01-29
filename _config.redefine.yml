@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: https://www.hoyoverse.com/_nuxt/img/logo-light.3def3bc.png
   # Site logo
-  logo: https://imgs.focalors.ltd/v2/W7sbzR8.jpg
+  logo: https://fastcdn.hoyoverse.com/content-v2/plat/101581/77f36e14ec28939d7f77c4c57618c5f7_519912983958508131.jpeg
   # Site avatar
-  avatar: https://imgs.focalors.ltd/v2/W7sbzR8.jpg
+  avatar: https://www.focalors.ltd/d/%E8%AF%B7%E6%88%91%E5%96%9D%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%F0%9F%A7%8B/Image_1736092269803.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -465,9 +465,9 @@ page_templates:
 # Docs: https://redefine-docs.ohevan.com/cdn
 cdn:
   # Whether to enable CDN
-  enable: false
+  enable: true
   # CDN Provider
-  provider: npmmirror # npmmirror, zstatic, cdnjs, jsdelivr, unpkg, custom
+  provider: jsdelivr # npmmirror, zstatic, cdnjs, jsdelivr, unpkg, custom
   # Custom CDN URL
   # format example: https://cdn.custom.com/hexo-theme-redefine/${version}/source/${path}
   # The ${path} must leads to the root of the "source" folder of the theme
