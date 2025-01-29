@@ -27,9 +27,9 @@ defaults:
   # Favicon
   favicon: /images/redefine-favicon.svg
   # Site logo
-  logo: 
+  logo: https://imgs.focalors.ltd/v2/W7sbzR8.jpg
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: https://imgs.focalors.ltd/v2/W7sbzR8.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
