@@ -125,8 +125,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: https://www.focalors.ltd/d/%E8%AF%B7%E6%88%91%E5%96%9D%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%F0%9F%A7%8B/bh38year.png # light mode
-    dark: https://www.focalors.ltd/d/%E8%AF%B7%E6%88%91%E5%96%9D%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%F0%9F%A7%8B/bh38year.png # dark mode
+    light: https://www.focalors.ltd/d/%E8%AF%B7%E6%88%91%E5%96%9D%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%F0%9F%A7%8B/starrail1th.png # light mode
+    dark: https://www.focalors.ltd/d/%E8%AF%B7%E6%88%91%E5%96%9D%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%F0%9F%A7%8B/starrail1th.png # dark mode
   # Home banner title
   title: 愿此行, 终抵群星!
   # Home banner subtitle
